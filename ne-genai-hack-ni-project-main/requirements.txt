@@ -1,0 +1,14 @@
+google_auth_oauthlib==1.1.0
+pandas==2.0.3
+protobuf==4.24.3
+Requests==2.31.0
+streamlit==1.26.0
+streamlit_image_select==0.6.0
+beautifulsoup4
+urllib3
+yattag
+amazon-textract-textractor
+textract-trp
+
+
+
